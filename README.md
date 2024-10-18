@@ -11,4 +11,4 @@ Integrations: Connects with popular applications like Google Calendar, Notion, a
 With ORION, everyday life becomes simpler, more organized, and productive, allowing users to focus on what truly matters.
 
 
-#We are currently looking for developers, so if you want to contribute to this project, please send us an email at orion@outlook.com.
+# We are currently looking for developers, so if you want to contribute to this project, please send us an email at orion@outlook.com.
